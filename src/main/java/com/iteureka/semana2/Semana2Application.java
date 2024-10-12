@@ -7,10 +7,10 @@ import lombok.extern.slf4j.Slf4j;
 
 @SpringBootApplication
 @Slf4j
-public class Semana1Application {
+public class Semana2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Semana1Application.class, args);
+		SpringApplication.run(Semana2Application.class, args);
 	}
 
 }
